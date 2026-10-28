@@ -1,7 +1,7 @@
 // BOT CONFIGURATION
-const BOT_TOKEN = "8999318413:AAFBoi7XfL_Ae7_uYMk9xWN9-oriVJjvl6E";
-const CHANNEL_USERNAME = "@xearningfreehack";
-const CHANNEL_LINK = "https://t.me/xearningfreehack";
+const BOT_TOKEN = "9137739367:AAE4yIYBG956-a2vJkjJBoixJn0FjP5ca2M";
+const CHANNEL_USERNAME = "@KillerbossCrackerChannel";
+const CHANNEL_LINK = "https://t.me/KillerbossCrackerChannel";
 const ADMIN_USER_ID = "8370471165";
 
 // API ENDPOINTS - Updated for Shwe Lottery
